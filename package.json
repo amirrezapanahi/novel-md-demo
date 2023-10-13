@@ -1,6 +1,7 @@
 {
-  "homepage": "http://amirrezapanahi.github.io/novel-md-demo""name": "md-parser-demo",
-  "version": "0.1.0",
+  "homepage": "http://amirrezapanahi.github.io/novel-md-demo",
+  "name": "md-parser-demo",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
