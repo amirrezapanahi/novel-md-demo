@@ -24,9 +24,10 @@ const App: React.FC = () => {
   };
 
   useEffect(() => {
-    setHTML(generateHTML(
-      JSON.parse(localStorage.getItem("novel__content") || "{}")
-      , [StarterKit, Image, TaskItem, TaskList, Link]) || '')
+    setHTML("")
+    // setHTML(generateHTML(
+    //   JSON.parse(localStorage.getItem("novel__content") || "{}")
+    //   , [StarterKit, Image, TaskItem, TaskList, Link]) || '')
   }, [])
 
   useEffect(() => {
