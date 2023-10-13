@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/novel-md-demo/static/css/main.d97c6dbb.css",
+    "main.js": "/novel-md-demo/static/js/main.d6d228f8.js",
+    "static/js/787.e7083f6c.chunk.js": "/novel-md-demo/static/js/787.e7083f6c.chunk.js",
+    "index.html": "/novel-md-demo/index.html",
+    "main.d97c6dbb.css.map": "/novel-md-demo/static/css/main.d97c6dbb.css.map",
+    "main.d6d228f8.js.map": "/novel-md-demo/static/js/main.d6d228f8.js.map",
+    "787.e7083f6c.chunk.js.map": "/novel-md-demo/static/js/787.e7083f6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97c6dbb.css",
+    "static/js/main.d6d228f8.js"
+  ]
+}
