@@ -77,7 +77,7 @@ const App: React.FC = () => {
   return (
     <>
       <h1 className='header' style={{ textAlign: 'center', fontSize: '3em', marginTop: '1em' }}> Bi-directional markdown import & export for <strong>Novel.sh</strong></h1>
-      <div style={{ display: 'flex', height: '100vh', 'width': '80%', 'margin': '0 auto', 'gap': '3em' }}>
+      <div style={{ display: 'flex', 'width': '80%', 'margin': '0 auto', 'gap': '3em' }}>
         {/* Left Column: Block Editor */}
         <div style={{ flex: 1, padding: '20px', overflowY: 'auto' }}>
           <h1 className='header'> Editor </h1>
